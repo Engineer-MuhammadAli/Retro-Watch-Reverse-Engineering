@@ -1,5 +1,6 @@
-# Retro-Watch-Reverse-Engineering
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/dbadb9a9-7691-49b5-b9dc-84199304e51b)# Retro-Watch-Reverse-Engineering
 Reverse engineering a 90s wristwatch for affordable CNC manufacturing. 3D modeled in SolidWorks, toolpaths generated in Fusion 360.
+![Uploading ezgif.com-animated-gif-maker.gif…]()
 # 90s Watch Reverse Engineering Project 🕰️
 
 This open-source project reverse engineers a vintage 1990s wristwatch. The aim is to recreate it using affordable materials and CNC machining to reduce manufacturing costs and make it accessible.
@@ -26,4 +27,3 @@ This open-source project reverse engineers a vintage 1990s wristwatch. The aim i
 3. Submit G-code variations for different machines
 4. Share ideas for low-cost material alternatives
 
-![Watch assembly in Solidworks](watchimages/wristwatchcomponents.jpg)
