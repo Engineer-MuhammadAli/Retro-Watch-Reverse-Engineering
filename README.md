@@ -26,4 +26,4 @@ This open-source project reverse engineers a vintage 1990s wristwatch. The aim i
 3. Submit G-code variations for different machines
 4. Share ideas for low-cost material alternatives
 
-
+![Watch assembly in Solidworks](watchimages/wristwatchcomponents.jpg)
