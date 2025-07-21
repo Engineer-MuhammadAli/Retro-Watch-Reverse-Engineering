@@ -19,4 +19,11 @@ This open-source project reverse engineers a vintage 1990s wristwatch. The aim i
 - Allows quick changes to dimensions or aesthetics
 - Helps reduce cost using alternate materials
 
-## Folder Structure
+
+## How to Contribute
+1. Fork the repository
+2. Suggest improvements or redesigns
+3. Submit G-code variations for different machines
+4. Share ideas for low-cost material alternatives
+
+
